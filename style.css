@@ -1,5 +1,7 @@
 body{
-  
+  font-family: Calibri;
+  /* Ho usato il calibri dato che non riuscivo a riconoscre
+  quale font fosse */
 }
 
 header{
@@ -54,7 +56,21 @@ footer{
   width: 75%;
   margin: auto;
   text-align: justify;
+  color: #fff;
 }
 h3{
   color: #989898;
+}
+.box1{
+  background-image: url(img/monitor.jpg);
+  width: 275px;
+  height: 200px;
+}
+.box2{
+  background-image: url(img/graph.jpg);
+  width: 275px;
+  height: 200px;
+}
+ul{
+  padding:15px;
 }
