@@ -16,6 +16,7 @@ header div{
 main{
   width: 75%;
   margin: auto;
+  text-align: justify;
 } 
 h1{
   font-weight: bold;
@@ -34,4 +35,26 @@ h1{
 }
 .evidenziatore{
   background-color: yellow;
+}
+table{
+  border-collapse: collapse;
+}
+th{
+  width: 25%;
+  text-align: left;
+  background-color: #20A9E5;
+}
+td{
+  width: 25%
+}
+.rd/* riga dispari */{
+  background-color:#B1E5F2;
+}
+footer{
+  width: 75%;
+  margin: auto;
+  text-align: justify;
+}
+h3{
+  color: #989898;
 }
